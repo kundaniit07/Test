@@ -1,0 +1,2760 @@
+/* -----------------  cpr.tok.uat.services.ratestok.start.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ratestok.start.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ratestok.stop.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ratestok.stop.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.marktok.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.marktok.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.database.ratestokdbmanager.purgerowmod.gn1    ----------------- */
+delete_job:  cpr.tok.uat.database.ratestokdbmanager.purgerowmod.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.database.ratestokdbmanager.purgecalcattraudit.gn1    ----------------- */
+delete_job:  cpr.tok.uat.database.ratestokdbmanager.purgecalcattraudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.emtnclosediff.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.emtnclosediff.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.eurosuprabestprices.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.eurosuprabestprices.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.filecopyaf28.filecopyaf1.filecopy.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.filecopyaf28.filecopyaf1.filecopy.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.filecopyaf28.filecopyaf2.filecopy.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.filecopyaf28.filecopyaf2.filecopy.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.venturefilecheck.hermesventure.venturefilecheck.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.venturefilecheck.hermesventure.venturefilecheck.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.inflationaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.inflationaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.eurogovaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.eurogovaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.euroswapaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.euroswapaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.giltsaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.giltsaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.ratesaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.ratesaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.sterlingswapaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.sterlingswapaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.usswapaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.usswapaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.corporatesaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.corporatesaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.archive.posttradeaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.archive.posttradeaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.emtnind.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.emtnind.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.emtncloses.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.emtncloses.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.ecpaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.ecpaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.venturefilecheck.hermesventure.venturefilecheck2.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.venturefilecheck.hermesventure.venturefilecheck2.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.morningchecks.automationscripts.testers.box.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.morningchecks.automationscripts.testers.box.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.morningchecks.traderconnectionstatus.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.morningchecks.traderconnectionstatus.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.morningchecks.hitresendchains.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.morningchecks.hitresendchains.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.morningchecks.bbgconnectionlog.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.morningchecks.bbgconnectionlog.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.morningechecks.connectedservers.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.morningechecks.connectedservers.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.filesend.venture.fixeddefault.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.filesend.venture.fixeddefault.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.aif.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.aif.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.aif.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.aif.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.aqadmin.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.aqadmin.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.aqadmin.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.aqadmin.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.aqrouter.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.aqrouter.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.aqrouter.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.aqrouter.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.autohedge.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.autohedge.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.autohedge.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.autohedge.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.autoquoter.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.autoquoter.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.autoquoter.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.autoquoter.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnpricefeed.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnpricefeed.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnpricefeed.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnpricefeed.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnpricefeed.daily.am.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnpricefeed.daily.am.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnpricefeed.daily.am.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnpricefeed.daily.am.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnpricefeed.daily.pm.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnpricefeed.daily.pm.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnpricefeed.daily.pm.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnpricefeed.daily.pm.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnspreads.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnspreads.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnspreads.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnspreads.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.exchangedata.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.exchangedata.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.exchangedata.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.exchangedata.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.export.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.export.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.export.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.export.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.expricepub.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.expricepub.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.expricepub.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.expricepub.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.farmworker.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.farmworker.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.farmworker.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.farmworker.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.hermesexport.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.hermesexport.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.inbroker.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.inbroker.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.inbroker.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.inbroker.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.mark.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.mark.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.mark.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.mark.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.masterriskpltree.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.masterriskpltree.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.masterriskpltree.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.masterriskpltree.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.mpfgateway.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.mpfgateway.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.mpfgateway.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.mpfgateway.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.mpfgateway2.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.mpfgateway2.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.mpfgateway2.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.mpfgateway2.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pnlcontrol.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pnlcontrol.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pnlcontrol.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pnlcontrol.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pnlworker.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pnlworker.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pnlworker.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pnlworker.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.positionrec.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.positionrec.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.positionrec.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.positionrec.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricing.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricing.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricing.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricing.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricingenginefeed.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricingenginefeed.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricingenginefeed.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricingenginefeed.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ptgateway.weekend.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ptgateway.weekend.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ptgateway.weekend.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ptgateway.weekend.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ratestok.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ratestok.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.lmebaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.lmebaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.hermesexport.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.hermesexport.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.corplontradestoreaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.corplontradestoreaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.aqaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.aqaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.exchangeaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.exchangeaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabase.posttradeaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabase.posttradeaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.swissaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.swissaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.posttradeaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.posttradeaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.mmktlonaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.mmktlonaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.staticdataaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.staticdataaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.tradinghubaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.tradinghubaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.algoaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.algoaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.cpvault.cpvaultaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.cpvault.cpvaultaudit.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.tradeweb.all.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.tradeweb.all.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.externalmdxbridgesingapore.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.externalmdxbridgesingapore.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.aqadminupdate.alphadyne.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.aqadminupdate.alphadyne.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.corpauditpurge.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.corpauditpurge.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.loansaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.loansaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.ratesauditpurge.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.ratesauditpurge.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.stripsaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.stripsaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.setmaturedimportstono.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.setmaturedimportstono.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.creditmatured.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.creditmatured.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.emtnclosingstyle.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.emtnclosingstyle.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.iboxx8830.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.iboxx8830.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.ratesmatured.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.ratesmatured.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.algo.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.algo.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.algo.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.algo.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.exchangedata.all.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.exchangedata.all.daily.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.exchangedata.all.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.exchangedata.all.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.expricepub.daily.pm.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.expricepub.daily.pm.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.expricepub.daily.pm.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.expricepub.daily.pm.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.farmworker.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.farmworker.daily.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.farmworker.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.farmworker.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.recmux.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.recmux.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.recmux.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.recmux.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.eurogov.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.eurogov.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.eurosupra.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.eurosupra.daily.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.eurosupra.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.eurosupra.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.euroswap.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.euroswap.daily.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.euroswap.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.euroswap.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.inflation.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.inflation.daily.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.inflation.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.inflation.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.sterlingsupra.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.sterlingsupra.daily.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.sterlingsupra.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.sterlingsupra.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.strips.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.strips.daily.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.strips.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.strips.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ptgateway.bloombergrbsm.weekend.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ptgateway.bloombergrbsm.weekend.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ptgateway.bloombergrbsm.weekend.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ptgateway.bloombergrbsm.weekend.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.smarttrade.weekend.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.smarttrade.weekend.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.smarttrade.weekend.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.smarttrade.weekend.stop.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ust.tokyo.all.start.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ust.tokyo.all.start.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ust.tokyo.all.stop.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ust.tokyo.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.icapgateway.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.icapgateway.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.icapgateway.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.icapgateway.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.loans.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.loans.all.restart.gn1   
+
+
+
+/* -----------------  cpr.sgp.uat.risk.foundry.pub.gn1    ----------------- */
+delete_job:  cpr.sgp.uat.risk.foundry.pub.gn1   
+
+
+
+/* -----------------  cpr.sgp.uat.risk.foundryflash.pub.gn1    ----------------- */
+delete_job:  cpr.sgp.uat.risk.foundryflash.pub.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.austriareport.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.austriareport.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.d2caudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.d2caudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.stagereport.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.stagereport.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.autoupdates.approve.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.autoupdates.approve.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.delta.marketrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.delta.marketrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.delta.snap.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.delta.snap.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.delta.snap.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.delta.snap.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.delta.snap.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.delta.snap.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.gilts.autoupdates.approve.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.gilts.autoupdates.approve.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2.snap.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2.snap.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2.snap.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2.snap.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2.snap.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2.snap.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2.irc.build.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2.irc.build.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2.irc.build.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2.irc.build.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2.irc.build.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2.irc.build.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.icapgateway.uk.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.icapgateway.uk.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.icapgateway.uk.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.icapgateway.uk.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.audit.bondstatic.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.audit.bondstatic.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.audit.cafstatic.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.audit.cafstatic.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.audit.instrumentsourceindex.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.audit.instrumentsourceindex.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.audit.curves.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.audit.curves.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.test.fail.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.test.fail.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.test.fail.gn1    ----------------- */
+delete_job:  cpr.tok.uat.test.fail.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.test.success.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.test.success.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.test.success.gn1    ----------------- */
+delete_job:  cpr.tok.uat.test.success.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.stagereport.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.stagereport.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ptgatewaytradewebeugvtokyo.start.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ptgatewaytradewebeugvtokyo.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.smarttrade.all.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.smarttrade.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.smarttrade.all.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.smarttrade.all.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.kdbcollector.pnl.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.kdbcollector.pnl.daily.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.kdbcollector.pnl.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.kdbcollector.pnl.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cr1.snap.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cr1.snap.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cr1.snap.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cr1.snap.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cr1.snap.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cr1.snap.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cr1.default.marketrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cr1.default.marketrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cr1.worse.marketrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cr1.worse.marketrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.geneos.test.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.geneos.test.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpuspricing.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpuspricing.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpuspricingmaster.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpuspricingmaster.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpuspricingmaster.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpuspricingmaster.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpusecnpricefeed.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpusecnpricefeed.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpusautoquoter.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpusautoquoter.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpusautohedgemaster.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpusautohedgemaster.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.latamaudit.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.latamaudit.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.corporatesusaudit.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.corporatesusaudit.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.mmktgreaudit.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.mmktgreaudit.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.aqadminupdate.alphadyne.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.aqadminupdate.alphadyne.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.bloomberg.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.bloomberg.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.bonds.aqrouter.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.bonds.aqrouter.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.aif.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.aif.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.aqrouter.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.aqrouter.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.autoquoter.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.autoquoter.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.ecnpricefeed.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.ecnpricefeed.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.exchangedata.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.exchangedata.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.expricepub.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.expricepub.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.farm.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.farm.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.icefeed.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.icefeed.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.mpfgateway.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.mpfgateway.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.pricing.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.pricing.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.rcs.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.rcs.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.fxdi.nyc.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.fxdi.nyc.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.global.stamford.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.global.stamford.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.latam.offshore.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.latam.offshore.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.mmkt.ct.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.mmkt.ct.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.tradeweb.twpfgateway.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.tradeweb.twpfgateway.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.clientmux.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.clientmux.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.bloomberg.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.bloomberg.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.bonds.aqrouter.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.bonds.aqrouter.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.aif.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.aif.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.aqrouter.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.aqrouter.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.autoquoter.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.autoquoter.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.clientmux.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.clientmux.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.ecnpricefeed.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.ecnpricefeed.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.exchangedata.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.exchangedata.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.expricepub.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.expricepub.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.farm.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.farm.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.icefeed.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.icefeed.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.mpfgateway.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.mpfgateway.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.pricing.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.pricing.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.rcs.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.rcs.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.fxdi.nyc.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.fxdi.nyc.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.global.stamford.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.global.stamford.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.latam.offshore.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.latam.offshore.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.mmkt.ct.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.mmkt.ct.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.tradeweb.twpfgateway.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.tradeweb.twpfgateway.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.exchange.exchangegateway.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.exchange.exchangegateway.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.exchange.exchangegateway.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.exchange.exchangegateway.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ussupra.clientmux.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ussupra.clientmux.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ussupra.clientmux.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ussupra.clientmux.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.ussuprausaudit.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.ussuprausaudit.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ussupra.stamford.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ussupra.stamford.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ussupra.stamford.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ussupra.stamford.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.dbreport.latamenc.report.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.dbreport.latamenc.report.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.tradewebucds.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.tradewebucds.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.tradewebucds.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.tradewebucds.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.client.aqrouter.stamford.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.client.aqrouter.stamford.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.cleardownspace.ustclearspace.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.cleardownspace.ustclearspace.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.ussupratkydev.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.ussupratkydev.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.ratestradestoreauditus.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.ratestradestoreauditus.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.ussupranycdev.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.ussupranycdev.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.latamauditdev.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.latamauditdev.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.cleardownspace.ustdevclearspace.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.cleardownspace.ustdevclearspace.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.auditdatabases.stamfordposttrade.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.auditdatabases.stamfordposttrade.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.dbreport.bookstatus.report.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.dbreport.bookstatus.report.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.dbreport.latambonds.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.dbreport.latambonds.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.dbreport.testinglatam.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.dbreport.testinglatam.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.braveheartgw.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.braveheartgw.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.braveheartgw.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.braveheartgw.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.gatewayrouter.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.gatewayrouter.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.gatewayrouter.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.gatewayrouter.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.inbroker.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.inbroker.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.inbroker.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.inbroker.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.stpbhexchsfd.weekend.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.stpbhexchsfd.weekend.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.stpbhexchsfd.weekend.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.stpbhexchsfd.weekend.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.test.fail.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.test.fail.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.test.success.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.test.success.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ptgateway.maus.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ptgateway.maus.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ptgateway.maus.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ptgateway.maus.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.smarttrade.all.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.smarttrade.all.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.smarttrade.all.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.smarttrade.all.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.smarttrade.daily.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.smarttrade.daily.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.smarttrade.daily.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.smarttrade.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.algo.daily.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.algo.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.algo.daily.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.algo.daily.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ptgateway.javelin.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ptgateway.javelin.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ptgateway.javelin.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ptgateway.javelin.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.staticdata.bookmanager.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.staticdata.bookmanager.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.staticdata.bookmanager.housekeeping.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.staticdata.bookmanager.housekeeping.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.jumpmatrix.marketrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.jumpmatrix.marketrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.jumpmatrix.snap.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.jumpmatrix.snap.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.jumpmatrix.snap.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.jumpmatrix.snap.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.jumpmatrix.snap.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.jumpmatrix.snap.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2global.marketrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2global.marketrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2global.snap.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2global.snap.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2global.snap.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2global.snap.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.basel2global.snap.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.basel2global.snap.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.iswapeuro.daily.stop.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.iswapeuro.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.iswapeuro.daily.start.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.iswapeuro.daily.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ptgateway.iswapus.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ptgateway.iswapus.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ptgateway.iswapus.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ptgateway.iswapus.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.bbgprice.snap.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.bbgprice.snap.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.bbgprice.snap.asa.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.bbgprice.snap.asa.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ptgateway.bloomberg.weekend.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ptgateway.bloomberg.weekend.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ptgateway.bloomberg.weekend.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ptgateway.bloomberg.weekend.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.foundry.eu.createfiles.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.foundry.eu.createfiles.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.foundry.eu.argonpublish.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.foundry.eu.argonpublish.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.risk.pub.foundry.asia.createfiles.gn1    ----------------- */
+delete_job:  cpr.tok.uat.risk.pub.foundry.asia.createfiles.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.risk.pub.foundry.asia.argonpublish.gn1    ----------------- */
+delete_job:  cpr.tok.uat.risk.pub.foundry.asia.argonpublish.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.fxndf.singapore.all.stop.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.fxndf.singapore.all.stop.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.fxndf.singapore.all.start.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.fxndf.singapore.all.start.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.loans.snap.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.loans.snap.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.loans.venture.marketrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.loans.venture.marketrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.loans.ice.marketrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.loans.ice.marketrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.stagereport.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.stagereport.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.blackboxauditpurge.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.blackboxauditpurge.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.curve.snapshot.asa.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.curve.snapshot.asa.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.curve.snapshot.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.curve.snapshot.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.curve.snapshot.nyk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.curve.snapshot.nyk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.geneos.generate.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.geneos.generate.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.geneos.sync.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.geneos.sync.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.aggregate.cs01.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.aggregate.cs01.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.aggregatepub.cs01.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.aggregatepub.cs01.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.aggregate.cs01.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.aggregate.cs01.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.aggregatepub.cs01.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.aggregatepub.cs01.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.aggregate.cs01.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.aggregate.cs01.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.aggregatepub.cs01.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.aggregatepub.cs01.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.snap.bucket.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.snap.bucket.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.snap.parallel.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.snap.parallel.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.snap.bucket.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.snap.bucket.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.snap.parallel.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.snap.parallel.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.snap.bucket.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.snap.bucket.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.snap.parallel.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.snap.parallel.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.bucket.eu.creditrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.bucket.eu.creditrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.parallel.eu.creditrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.parallel.eu.creditrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.bucket.am.creditrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.bucket.am.creditrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.parallel.am.creditrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.parallel.am.creditrisk.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.stagingpurge.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.stagingpurge.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.mmktlonaudit.short.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.mmktlonaudit.short.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.mmktlonaudit.long.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.mmktlonaudit.long.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.ust.suppdev.dailybounce.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.ust.suppdev.dailybounce.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.test.postreleaseservicerestarttestjob.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.test.postreleaseservicerestarttestjob.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.aqadmin.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.aqadmin.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.calc.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.calc.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.risk.calc.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.risk.calc.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.pub.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.pub.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.risk.pub.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.risk.pub.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.calc.asia.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.calc.asia.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.pub.asia.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.pub.asia.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.aqgateway.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.aqgateway.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.bloomberg.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.bloomberg.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.bondvision.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.bondvision.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.aif.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.aif.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.aqrouter.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.aqrouter.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.autohedge.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.autohedge.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.autoquoter.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.autoquoter.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.clientmux.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.clientmux.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnpricefeed.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnpricefeed.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.exchangedata.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.exchangedata.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.export.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.export.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.expricepub.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.expricepub.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.masterriskpltree.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.masterriskpltree.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.mpfgateway2.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.mpfgateway2.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricing.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricing.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.taskcontrol.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.taskcontrol.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.taskworker.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.taskworker.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.tradestore.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.tradestore.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ecp.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ecp.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.eurogov.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.eurogov.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.eurosupra.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.eurosupra.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.euroswap.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.euroswap.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.exchange.exchangegateway.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.exchange.exchangegateway.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.externallon.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.externallon.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.gilts.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.gilts.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.global.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.global.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.inflation.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.inflation.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.lmeb.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.lmeb.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.marketaxess.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.marketaxess.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.mmkt.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.mmkt.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.posttrade.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.posttrade.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ratestok.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ratestok.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.sterlingsupra.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.sterlingsupra.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.sterlingswap.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.sterlingswap.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.strips.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.strips.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.swap.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.swap.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.tradeweb.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.tradeweb.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.trading.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.trading.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.exchange.reuters.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.exchange.reuters.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ptgateway.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ptgateway.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.aqrouter.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.aqrouter.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ecnquotefeed.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ecnquotefeed.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.ecnpricefeed.daily.pm.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.ecnpricefeed.daily.pm.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ecnpricefeed.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ecnpricefeed.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.sterlingsupra.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.sterlingsupra.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.bondvision.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.bondvision.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.exchange.greenwichrmds.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.exchange.greenwichrmds.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.exchangedata.all.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.exchangedata.all.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.eurosupra.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.eurosupra.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.euroswap.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.euroswap.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.inflation.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.inflation.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.pricing.strips.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.pricing.strips.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.expricepub.daily.pm.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.expricepub.daily.pm.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.posttrade.retail.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.posttrade.retail.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.posttrade.fx.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.posttrade.fx.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.swiss.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.swiss.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.pnlcalculator.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.pnlcalculator.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.aggregator.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.aggregator.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.marketaxess.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.marketaxess.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.fxdi.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.fxdi.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.staticdata.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.staticdata.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.fxforwards.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.fxforwards.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.exchange.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.exchange.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.tradeweb.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.tradeweb.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.bmark.delete.job.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.bmark.delete.job.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.pnlcalculator.c.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.pnlcalculator.c.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.algo.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.algo.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ceemea.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ceemea.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.external.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.external.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.aqrouter.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.aqrouter.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.postusclose.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.postusclose.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ust.london.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ust.london.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.nontaqrouter.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.nontaqrouter.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.nontaqrouter.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.nontaqrouter.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.all.london.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.all.london.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.marketplace.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.marketplace.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.qtgateway.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.qtgateway.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.algo.daily2.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.algo.daily2.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.reuters.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.reuters.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.mmkt.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.mmkt.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.fxndf.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.fxndf.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.curves.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.curves.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.umpub.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.umpub.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ptgateway.weekly.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ptgateway.weekly.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ecp.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ecp.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ecnquotefeed.weekly.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ecnquotefeed.weekly.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.umds.london.weekly.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.umds.london.weekly.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.clientmux.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.clientmux.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.exchange.exchangegateway.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.exchange.exchangegateway.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.smarttrade.strategy.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.smarttrade.strategy.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.risk.daily.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.risk.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.risk.daily.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.risk.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.daily.cds.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.daily.cds.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.risk.daily.cds.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.risk.daily.cds.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.giltsaudit.long.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.giltsaudit.long.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.giltsaudit.short.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.giltsaudit.short.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.fxforwardsaudit.long.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.fxforwardsaudit.long.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.fxforwardsaudit.short.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.fxforwardsaudit.short.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.curve.mr.snapshot.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.curve.mr.snapshot.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.curve.mr.snapshot.asa.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.curve.mr.snapshot.asa.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.rolldate.eu.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.rolldate.eu.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.rolldate.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.rolldate.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.rolldate.asia.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.rolldate.asia.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.rolldate.loans.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.rolldate.loans.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.bond.eu.snap.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.bond.eu.snap.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.bond.am.snap.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.bond.am.snap.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.bond.asia.snap.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.bond.asia.snap.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.loan.snap.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.loan.snap.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.corpus.exchangedata.all.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.corpus.exchangedata.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.report.emea.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.report.emea.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.report.am.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.report.am.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.report.loans.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.report.loans.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.startxtservices.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.startxtservices.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.startxt2server.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.startxt2server.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.stopxtservices.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.stopxtservices.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.stopxt2server.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.stopxt2server.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.uat.risk.daily.cds.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.uat.risk.daily.cds.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.recmux.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.recmux.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.wisdom.weekly.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.wisdom.weekly.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.cs01.bucket.ice.creditrisk.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.cs01.bucket.ice.creditrisk.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.clientaqsingapore.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.clientaqsingapore.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ust.stamford.whatif.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ust.stamford.whatif.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ust.stamford.whatif.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ust.stamford.whatif.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.bbgprice.snap.ldn.cls.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.bbgprice.snap.ldn.cls.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.cleanup.ion.dev.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.cleanup.ion.dev.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.cleanup.ion.uat.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.cleanup.ion.uat.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.infra.client.weekly.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.infra.client.weekly.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.report.coverage.emea.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.report.coverage.emea.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.report.coverage.loans.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.report.coverage.loans.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.database.auditdatabases.clearconversations.ust.gn1    ----------------- */
+delete_job:  cpr.tok.uat.database.auditdatabases.clearconversations.ust.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.clientmux.all.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.clientmux.all.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.d2cspreadstokyo.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.d2cspreadstokyo.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.eurogov.all.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.eurogov.all.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ptgateway.all.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ptgateway.all.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ptgateway.tradewebeugv.tokyo.stop.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ptgateway.tradewebeugv.tokyo.stop.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ratestok.all.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ratestok.all.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.ust.tokyo.start.gn1    ----------------- */
+delete_job:  cpr.tok.uat.ust.tokyo.start.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.ust.tokyo.stop.gn1    ----------------- */
+delete_job:  cpr.tok.uat.ust.tokyo.stop.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.instrumentation.core.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.instrumentation.core.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.database.auditdatabases.usttradestoreauditsng.gn1    ----------------- */
+delete_job:  cpr.tok.uat.database.auditdatabases.usttradestoreauditsng.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ratesustradestoresng.daily.stop.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ratesustradestoresng.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ratesustradestoresng.daily.start.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ratesustradestoresng.daily.start.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ustpnlsingapore.daily.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ustpnlsingapore.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.ustaggregatorsng.daily.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.ustaggregatorsng.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.email.coverage.emea.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.email.coverage.emea.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.risk.pub.positionrec.email.coverage.loans.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.risk.pub.positionrec.email.coverage.loans.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.eurogov.stagereport.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.eurogov.stagereport.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.gilts.stagereport.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.gilts.stagereport.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.inflation.stagereport.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.inflation.stagereport.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.fxforwardsaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.fxforwardsaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.ceemeaaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.ceemeaaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.auditdatabases.fxndfaudit.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.auditdatabases.fxndfaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.database.fvarcopy.eurogov.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.database.fvarcopy.eurogov.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rst.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rst.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.tradewebswap.daily.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.tradewebswap.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.reposynch.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.reposynch.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.reposynch.cleanup.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.reposynch.cleanup.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.reposynch.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.reposynch.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.inftest.test.postreleaseservicerestarttestjob.gn1    ----------------- */
+delete_job:  cpr.ldn.inftest.test.postreleaseservicerestarttestjob.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.gtesynch.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.gtesynch.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.gtesynch.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.gtesynch.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.frnpriceval.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.frnpriceval.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.instahedger.daily2.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.instahedger.daily2.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.rates.aggregatorpar.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.rates.aggregatorpar.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.database.auditdatabases.d2caudit.gn1    ----------------- */
+delete_job:  cpr.tok.uat.database.auditdatabases.d2caudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.inftest.services.db.scanner.weekly.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.inftest.services.db.scanner.weekly.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.gtesynch.us.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.gtesynch.us.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.priceval.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.priceval.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.priceval.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.priceval.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.eurogov.priceval.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.eurogov.priceval.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.gilts.priceval.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.gilts.priceval.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.calc.sunday.asia.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.calc.sunday.asia.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.test.success.drmachine.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.test.success.drmachine.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.test.fail.drmachine.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.test.fail.drmachine.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.test.postreleaseservicerestarttestjob.drmachine.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.test.postreleaseservicerestarttestjob.drmachine.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ecp.mdxprice.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ecp.mdxprice.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ecp.eodpublicationjob.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ecp.eodpublicationjob.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricevalupdate.c4.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricevalupdate.c4.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricevalupdate.c3.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricevalupdate.c3.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.bond.adhocpricing.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.bond.adhocpricing.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricevalupdate.c1.allbonds.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricevalupdate.c1.allbonds.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.corp.pricevalupdate.c4.allbonds.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.corp.pricevalupdate.c4.allbonds.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.inflation.priceval.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.inflation.priceval.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.infrastructureum.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.infrastructureum.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corp.ldn.box.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corp.ldn.box.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corp1.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corp1.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corp2.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corp2.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corp3.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corp3.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corp4.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corp4.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corp5.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corp5.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corpeurogov.ldn.box.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corpeurogov.ldn.box.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corpeurogov1.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corpeurogov1.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corpeurogov2.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corpeurogov2.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corpeurogov3.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corpeurogov3.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corpeurogov4.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corpeurogov4.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.adhoc.corpeurogov5.ldn.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.adhoc.corpeurogov5.ldn.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.gtesynch.us0200.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.gtesynch.us0200.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.mdxbridge.pub.bbgprice.snap.ldn.cls2.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.mdxbridge.pub.bbgprice.snap.ldn.cls2.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.bgcbondsfix.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.bgcbondsfix.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.blackbox.gtesynch.us0100.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.blackbox.gtesynch.us0100.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.ecntoleranceeurogov.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.ecntoleranceeurogov.report.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.dbreport.ecntoleranceeuroswap.report.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.dbreport.ecntoleranceeuroswap.report.gn1   
+
+
+
+/* -----------------  cpr.tok.uat.services.corptokclientmux.restart.gn1    ----------------- */
+delete_job:  cpr.tok.uat.services.corptokclientmux.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ratesus.tradestore.stamford.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ratesus.tradestore.stamford.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ust.uspos.daily.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ust.uspos.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ust.uspos.daily.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ust.uspos.daily.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ust.risk.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ust.risk.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ust.stamford.daily.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ust.stamford.daily.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ust.stamford.daily.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ust.stamford.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ratesus.stamford.daily.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ratesus.stamford.daily.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ratesus.stamford.daily.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ratesus.stamford.daily.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ratesus.stamford.weekly.start.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ratesus.stamford.weekly.start.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ratesus.stamford.weekly.stop.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ratesus.stamford.weekly.stop.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.services.ust.kdbcollector.weekly.restart.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.services.ust.kdbcollector.weekly.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.usag.priceval.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.usag.priceval.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.ust.priceval.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.ust.priceval.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.infrastructurecore.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.infrastructurecore.restart.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.ptgatewayuscleanup.ptgatewayusarchive.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.ptgatewayuscleanup.ptgatewayusarchive.gn1   
+
+
+
+/* -----------------  cpr.nyc.uat.database.ptgatewayuscleanup.ptgwyuspurgeaudit.gn1    ----------------- */
+delete_job:  cpr.nyc.uat.database.ptgatewayuscleanup.ptgwyuspurgeaudit.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.instrumentation.graphers.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.instrumentation.graphers.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.risk.cba.daily.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.risk.cba.daily.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.uat.services.jgb.all.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.uat.services.jgb.all.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.inftest.services.instrumentation.graphers.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.inftest.services.instrumentation.graphers.restart.gn1   
+
+
+
+/* -----------------  cpr.ldn.inftest.services.instrumentation.graphers1.restart.gn1    ----------------- */
+delete_job:  cpr.ldn.inftest.services.instrumentation.graphers1.restart.gn1   
+
+
+
